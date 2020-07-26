@@ -16,3 +16,14 @@ a realizar los K óptimos con los datos ya procesados.
 # Requisitos.
 - Python 3.8
 - Dataset: 2.COVID19_clasificacion [1]
+
+# Librerias Necesarias.
+- pandas
+- numpy
+- matplotlib
+- OneHotEncoder
+- StandardScaler
+- LabelEncoder
+- preprocessing
+- train_test_split
+- Pipeline
