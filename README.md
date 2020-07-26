@@ -27,3 +27,10 @@ a realizar los K óptimos con los datos ya procesados.
 - preprocessing
 - train_test_split
 - Pipeline
+
+# Referencias
+[1] 2.COVID19_clasificacion:https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LQDFSE
+
+[2] Machine Learning Approaches in COVID-19 Survival Analysis and Discharge Time Likelihood Prediction using Clinical Data. (2020, 4 julio). Recuperado de https://www.sciencedirect.com/science/article/pii/S2666389920300945
+
+[3]Association between weather data and COVID-19 pandemic predicting mortality rate: Machine learning approaches. (2020, 1 septiembre). Recuperado de https://www.sciencedirect.com/science/article/pii/S0960077920305336#sec0003
