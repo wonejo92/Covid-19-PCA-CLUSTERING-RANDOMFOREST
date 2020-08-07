@@ -16,6 +16,7 @@ a realizar los K óptimos con los datos ya procesados.
 # Estructura de los archivos.
 - COVID19Notebook.ipynb : Contiene cada uno de los pasos realizados en nuestro metodo propuesto  para nuestro analisis Estadistico.
 - COVID19NotebookHTML.html : Nuestro cuaderno de jupyter en formato html.
+- DatasetPreprocesado.csv : Contiene nuestros datos ya procesados y estandarizados y poder tener unformacion totalmente numerica.
 
 
 
