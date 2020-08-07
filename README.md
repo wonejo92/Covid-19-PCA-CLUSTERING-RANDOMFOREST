@@ -14,6 +14,8 @@ a realizar los K óptimos con los datos ya procesados.
 4: Random Forest : Se implementa un modelo de Machine Learning el cual nos dara un valor de cuales son las variables mas influyentes para el contagio de Covid-19.
 
 # Estructura de los archivos.
+- COVID19Notebook.ipynb : Contiene cada uno de los pasos realizados en nuestro metodo propuesto  para nuestro analisis Estadistico.
+
 
 
 # Requisitos.
