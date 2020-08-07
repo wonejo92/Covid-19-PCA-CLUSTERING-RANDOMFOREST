@@ -13,6 +13,9 @@ a realizar los K óptimos con los datos ya procesados.
 
 4: Random Forest : Se implementa un modelo de Machine Learning el cual nos dara un valor de cuales son las variables mas influyentes para el contagio de Covid-19.
 
+# Estructura de los archivos.
+
+
 # Requisitos.
 - Python 3.8
 - Dataset: 2.COVID19_clasificacion [1]
